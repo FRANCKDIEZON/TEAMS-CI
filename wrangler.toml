@@ -1,5 +1,5 @@
-name = "teams-ci"
-compatibility_date = "2026-01-01"
-
-[assets]
-directory = "./dist" 
+{
+  "name": "teams-ci",
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "./public" }
+}
